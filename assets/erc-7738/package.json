@@ -17,12 +17,12 @@
         "@openzeppelin/upgrades-core": "^1.35.0",
         "dotenv": "^16.4.5",
         "ethers": "^6.13.1",
-        "hardhat": "^2.22.6",
+        "hardhat": "^3.22.0",
         "stl-contracts": "^2.5.1"
     },
     "devDependencies": {
-        "@nomicfoundation/hardhat-ignition-ethers": "^0.15.5",
-        "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+        "@nomicfoundation/hardhat-ignition-ethers": "^3.1.6",
+        "@nomicfoundation/hardhat-toolbox": "^7.0.0",
         "@nomiclabs/hardhat-etherscan": "^3.1.8"
     }
 }
